@@ -2,16 +2,21 @@
     [
         {
            "name": "text",
-           "title": "text title",
-           "description": "text description",
-           "link": ""
+           "text": "ya Sanya"
         },
 
         {
             "name": "youtubeVideo",
             "title": "youtube video title",
             "description": "youtube video description",
-            "link": "https://www.youtube.com/embed/U5TqIdff_DQ?si=NNKkceWLL4Ys4wHh"
+            "link": "https://www.youtube-nocookie.com/embed/J8tYbs3o8YU?si=8_lC01h32b_S3kFr&amp;controls=0"
+        },
+
+        {
+            "name": "vimeoVideo",
+            "title": "vimeo video title",
+            "description": "vimeo video description",
+            "link": ""
         }
     ]
 }
