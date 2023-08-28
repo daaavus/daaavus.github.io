@@ -24,8 +24,19 @@
         },
 
         {
-            "name": "imgurPhoto",
+            "name": "singlePhoto",
             "link": "http://i.imgur.com/WRmyqD2.jpg",
+            "title": "vimeo video title",
+            "description": "vimeo video description"
+        },
+
+        {
+            "name": "photoGroup",
+            "link": [
+                "http://i.imgur.com/WRmyqD2.jpg",
+                "http://i.imgur.com/WRmyqD2.jpg",
+                "http://i.imgur.com/WRmyqD2.jpg"
+            ],
             "title": "vimeo video title",
             "description": "vimeo video description"
         }
