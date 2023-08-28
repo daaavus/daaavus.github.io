@@ -32,10 +32,21 @@
 
         {
             "name": "photoGroup",
-            "link": [
-                "http://i.imgur.com/WRmyqD2.jpg",
-                "http://i.imgur.com/WRmyqD2.jpg",
-                "http://i.imgur.com/WRmyqD2.jpg"
+            "photos": [
+                {
+                    "id": "0",
+                    "link": "http://i.imgur.com/WRmyqD2.jpg"
+                },
+
+                {
+                    "id": "1",
+                    "link": "http://i.imgur.com/WRmyqD2.jpg"
+                },
+
+                {
+                    "id": "2",
+                    "link": "http://i.imgur.com/WRmyqD2.jpg"
+                }
             ],
             "title": "vimeo video title",
             "description": "vimeo video description"
