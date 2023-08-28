@@ -25,7 +25,9 @@
 
         {
             "name": "imgurPhoto",
-            "link": "https://i.imgur.com/WRmyqD2.jpg"
+            "link": "https://i.imgur.com/WRmyqD2.jpg",
+            "title": "vimeo video title",
+            "description": "vimeo video description"
         }
     ]
 }
