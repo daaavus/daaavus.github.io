@@ -1,11 +1,17 @@
-{
-    "text" : "interesting text",
-    "video": {
-        "title": "video title",
-        "link" : "video link"
-    },
-    "photo": {
-        "title": "video title",
-        "link" : "video link"
-    }
+{"sources":
+    [
+        {
+           "name": "text",
+           "title": "text title",
+           "description": "text description",
+           "link": ""
+        },
+
+        {
+            "name": "youtubeVideo",
+            "title": "youtube video title",
+            "description": "youtube video description",
+            "link": "https://www.youtube.com/embed/U5TqIdff_DQ?si=NNKkceWLL4Ys4wHh"
+        }
+    ]
 }
