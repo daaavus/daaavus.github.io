@@ -32,7 +32,7 @@
 
         {
             "name": "photoGroup",
-            "link": [
+            "links": [
                 "http://i.imgur.com/WRmyqD2.jpg",
                 "https://i.imgur.com/3dimL4l.jpg"
             ],
