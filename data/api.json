@@ -4,32 +4,90 @@
            "name": "text",
            "text": "ya Sanya"
         },
-
         {
             "name": "youtubeVideo",
             "title": "youtube video title",
             "description": "youtube video description",
             "link": "https://www.youtube-nocookie.com/embed/J8tYbs3o8YU?si=8_lC01h32b_S3kFr&amp;controls=0"
         },
-
         {
             "name": "vimeoVideo",
             "title": "vimeo video title",
             "description": "vimeo video description",
             "link": ""
         },
-
         {
             "name": "pdf"
         },
-
         {
             "name": "singlePhoto",
             "link": "http://i.imgur.com/WRmyqD2.jpg",
             "title": "vimeo video title",
             "description": "vimeo video description"
         },
-
+        {
+            "name": "photoGroup",
+            "links": [
+                "http://i.imgur.com/WRmyqD2.jpg",
+                "https://i.imgur.com/3dimL4l.jpg"
+            ],
+            "title": "blya",
+            "description": "blyablya"
+        },
+        {
+            "name": "photoGroup",
+            "links": [
+                "http://i.imgur.com/WRmyqD2.jpg",
+                "https://i.imgur.com/3dimL4l.jpg"
+            ],
+            "title": "blya",
+            "description": "blyablya"
+        },
+        {
+            "name": "photoGroup",
+            "links": [
+                "http://i.imgur.com/WRmyqD2.jpg",
+                "https://i.imgur.com/3dimL4l.jpg"
+            ],
+            "title": "blya",
+            "description": "blyablya"
+        },
+        {
+            "name": "photoGroup",
+            "links": [
+                "http://i.imgur.com/WRmyqD2.jpg",
+                "https://i.imgur.com/3dimL4l.jpg"
+            ],
+            "title": "blya",
+            "description": "blyablya"
+        },
+        {
+            "name": "photoGroup",
+            "links": [
+                "http://i.imgur.com/WRmyqD2.jpg",
+                "https://i.imgur.com/3dimL4l.jpg"
+            ],
+            "title": "blya",
+            "description": "blyablya"
+        },
+        {
+            "name": "photoGroup",
+            "links": [
+                "http://i.imgur.com/WRmyqD2.jpg",
+                "https://i.imgur.com/3dimL4l.jpg"
+            ],
+            "title": "blya",
+            "description": "blyablya"
+        },
+        {
+            "name": "photoGroup",
+            "links": [
+                "http://i.imgur.com/WRmyqD2.jpg",
+                "https://i.imgur.com/3dimL4l.jpg"
+            ],
+            "title": "blya",
+            "description": "blyablya"
+        },
         {
             "name": "photoGroup",
             "links": [
