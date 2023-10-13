@@ -1,0 +1,58 @@
+{"sources":
+    [
+        {
+           "name": "loadingText",
+           "text": ""
+        },
+        {
+            "name": "youtubeVideo",
+            "title": "youtube video title",
+            "description": "youtube video description",
+            "link": "https://www.youtube-nocookie.com/embed/J8tYbs3o8YU?si=8_lC01h32b_S3kFr&amp;controls=0"
+        },
+        {
+            "name": "vimeoVideo",
+            "title": "vimeo video title",
+            "description": "vimeo video description",
+            "link": ""
+        },
+        {
+            "name": "pdf"
+        },
+        {
+            "name": "singlePhoto",
+            "link": "http://i.imgur.com/WRmyqD2.jpg",
+            "title": "vimeo video title",
+            "description": "vimeo video description"
+        },
+        {
+            "name": "photoGroup",
+            "links": [
+                "https://i.imgur.com/WRmyqD2.jpg",
+                "https://i.imgur.com/3dimL4l.jpg"
+            ],
+            "title": "фото с пикника",
+            "description": "хахахахаха это описание лол"
+        },
+        {
+            "name": "photoGroup",
+            "links": [
+                "https://i.imgur.com/fV1jXWG.jpg",
+                "https://i.imgur.com/MrYbNmn.jpg"
+            ],
+            "title": "жоска пишу сайт",
+            "description": "жоска описал, как пишу сайт"
+        },
+        {
+            "name": "photoGroup",
+            "links": [
+                "https://i.imgur.com/fV1jXWG.jpg",
+                "https://i.imgur.com/MrYbNmn.jpg",
+                "http://i.imgur.com/WRmyqD2.jpg",
+                "https://i.imgur.com/3dimL4l.jpg"
+            ],
+            "title": "жоска пишу сайт 2",
+            "description": "жоска описал, как пишу сайт 2"
+        }
+    ]
+}
