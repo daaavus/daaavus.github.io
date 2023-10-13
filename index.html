@@ -47,8 +47,8 @@
 
 				scene = new THREE.Scene();
 
-				const loader = new GLTFLoader().setPath( './models/' );
-				loader.load( 'day.gltf', function ( gltf ) {
+				const loader = new GLTFLoader().setPath( './public/' );
+				loader.load( 'day.glb', function ( gltf ) {
 					scene.add( gltf.scene );
 					gltf.scene.scale.setScalar(0.1);
 					gltf.scene.rotation.y = 0.77;
