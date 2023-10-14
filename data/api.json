@@ -69,15 +69,15 @@
         },
         {
             "name": "singlePhoto",
-            "link": "http://i.imgur.com/WRmyqD2.jpg",
+            "link": "https://i.imgur.com/iDm7fYo.png",
             "title": "vimeo video title",
             "description": "vimeo video description"
         },
         {
             "name": "photoGroup",
             "links": [
-                "https://i.imgur.com/WRmyqD2.jpg",
-                "https://i.imgur.com/3dimL4l.jpg"
+                "https://i.imgur.com/iDm7fYo.png",
+                "https://i.imgur.com/iDm7fYo.png"
             ],
             "title": "фото с пикника",
             "description": "хахахахаха это описание лол"
@@ -85,8 +85,8 @@
         {
             "name": "photoGroup",
             "links": [
-                "https://i.imgur.com/fV1jXWG.jpg",
-                "https://i.imgur.com/MrYbNmn.jpg"
+                "https://i.imgur.com/iDm7fYo.png",
+                "https://i.imgur.com/iDm7fYo.png"
             ],
             "title": "жоска пишу сайт",
             "description": "жоска описал, как пишу сайт"
@@ -94,10 +94,10 @@
         {
             "name": "photoGroup",
             "links": [
-                "https://i.imgur.com/fV1jXWG.jpg",
-                "https://i.imgur.com/MrYbNmn.jpg",
-                "http://i.imgur.com/WRmyqD2.jpg",
-                "https://i.imgur.com/3dimL4l.jpg"
+                "https://i.imgur.com/iDm7fYo.png",
+                "https://i.imgur.com/iDm7fYo.png",
+                "https://i.imgur.com/iDm7fYo.png",
+                "https://i.imgur.com/iDm7fYo.png"
             ],
             "title": "жоска пишу сайт 2",
             "description": "жоска описал, как пишу сайт 2"
