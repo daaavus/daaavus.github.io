@@ -65,13 +65,10 @@
             "link": "https://player.vimeo.com/video/323281969?h=977deb7a52&title=0&byline=0&portrait=0"
         },
         {
-            "name": "pdf"
-        },
-        {
             "name": "singlePhoto",
             "link": "https://i.imgur.com/7YUmyFF.jpg",
-            "title": "vimeo video title",
-            "description": "vimeo video description"
+            "title": "single photo title",
+            "description": "single photo description"
         },
         {
             "name": "photoGroup",
