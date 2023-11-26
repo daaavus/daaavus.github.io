@@ -59,22 +59,10 @@
             "link": "https://www.youtube-nocookie.com/embed/es5hCtV4FZ8?si=vJ0ElB2HhehpFIDc&amp;controls=0"
         },
         {
-            "name": "youtubeVideo",
-            "title": "youtube video title",
-            "description": "youtube video description",
-            "link": "https://www.youtube-nocookie.com/embed/es5hCtV4FZ8?si=vJ0ElB2HhehpFIDc&amp;controls=0"
-        },
-        {
-            "name": "youtubeVideo",
-            "title": "youtube video title",
-            "description": "youtube video description",
-            "link": "https://www.youtube-nocookie.com/embed/es5hCtV4FZ8?si=vJ0ElB2HhehpFIDc&amp;controls=0"
-        },
-        {
             "name": "vimeoVideo",
             "title": "vimeo video title",
             "description": "vimeo video description",
-            "link": ""
+            "link": "https://player.vimeo.com/video/323281969?h=977deb7a52&title=0&byline=0&portrait=0"
         },
         {
             "name": "pdf"
@@ -86,57 +74,13 @@
             "description": "vimeo video description"
         },
         {
-            "name": "singlePhoto",
-            "link": "https://i.imgur.com/7YUmyFF.jpg",
-            "title": "vimeo video title",
-            "description": "vimeo video description"
-        },
-        {
-            "name": "singlePhoto",
-            "link": "https://i.imgur.com/7YUmyFF.jpg",
-            "title": "vimeo video title",
-            "description": "vimeo video description"
-        },
-        {
-            "name": "singlePhoto",
-            "link": "https://i.imgur.com/7YUmyFF.jpg",
-            "title": "vimeo video title",
-            "description": "vimeo video description"
-        },
-        {
-            "name": "singlePhoto",
-            "link": "https://i.imgur.com/7YUmyFF.jpg",
-            "title": "vimeo video title",
-            "description": "vimeo video description"
-        },
-        {
             "name": "photoGroup",
             "links": [
                 "https://i.imgur.com/7YUmyFF.jpg",
                 "https://i.imgur.com/7YUmyFF.jpg"
             ],
-            "title": "фото с пикника",
-            "description": "хахахахаха это описание лол"
-        },
-        {
-            "name": "photoGroup",
-            "links": [
-                "https://i.imgur.com/7YUmyFF.jpg",
-                "https://i.imgur.com/7YUmyFF.jpg"
-            ],
-            "title": "жоска пишу сайт",
-            "description": "жоска описал, как пишу сайт"
-        },
-        {
-            "name": "photoGroup",
-            "links": [
-                "https://i.imgur.com/7YUmyFF.jpg",
-                "https://i.imgur.com/7YUmyFF.jpg",
-                "https://i.imgur.com/7YUmyFF.jpg",
-                "https://i.imgur.com/7YUmyFF.jpg"
-            ],
-            "title": "жоска пишу сайт 2",
-            "description": "жоска описал, как пишу сайт 2"
+            "title": "title",
+            "description": "description"
         }
     ]
 }
