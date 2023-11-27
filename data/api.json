@@ -56,19 +56,22 @@
             "name": "youtubeVideo",
             "title": "youtube video title",
             "description": "youtube video description",
-            "link": "https://www.youtube-nocookie.com/embed/es5hCtV4FZ8?si=vJ0ElB2HhehpFIDc&amp;controls=0"
+            "link": "https://www.youtube-nocookie.com/embed/es5hCtV4FZ8?si=vJ0ElB2HhehpFIDc&amp;controls=0",
+            "preview": "https://i.imgur.com/FkH3Oae.jpeg"
         },
         {
             "name": "vimeoVideo",
             "title": "vimeo video title",
             "description": "vimeo video description",
-            "link": "https://player.vimeo.com/video/323281969?h=977deb7a52&title=0&byline=0&portrait=0"
+            "link": "https://player.vimeo.com/video/323281969?h=977deb7a52&title=0&byline=0&portrait=0",
+            "preview": "https://i.imgur.com/FkH3Oae.jpeg"
         },
         {
             "name": "singlePhoto",
             "link": "https://i.imgur.com/7YUmyFF.jpg",
             "title": "single photo title",
-            "description": "single photo description"
+            "description": "single photo description",
+            "preview": "https://i.imgur.com/FkH3Oae.jpeg"
         },
         {
             "name": "photoGroup",
@@ -77,7 +80,8 @@
                 "https://i.imgur.com/7YUmyFF.jpg"
             ],
             "title": "title",
-            "description": "description"
+            "description": "description",
+            "preview": "https://i.imgur.com/FkH3Oae.jpeg"
         }
     ]
 }
