@@ -68,7 +68,7 @@
         },
         {
             "name": "singlePhoto",
-            "link": "https://i.imgur.com/7YUmyFF.jpg",
+            "link": "https://i.imgur.com/yxNI7m0.jpg",
             "title": "single photo title",
             "description": "single photo description",
             "preview": "https://i.imgur.com/FkH3Oae.jpeg"
@@ -76,8 +76,8 @@
         {
             "name": "photoGroup",
             "links": [
-                "https://i.imgur.com/7YUmyFF.jpg",
-                "https://i.imgur.com/7YUmyFF.jpg"
+                "https://i.imgur.com/yxNI7m0.jpg",
+                "https://i.imgur.com/6VPyV7l.jpg"
             ],
             "title": "title",
             "description": "description",
