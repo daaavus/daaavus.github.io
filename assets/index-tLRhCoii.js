@@ -1129,4 +1129,4 @@ Values:
                 ${Math.floor((7*24*60*60-(f/1e3-Number(i.tomato_delay)))/24/60/60)} days
                 ${Math.floor((7*24*60*60-(f/1e3-Number(i.tomato_delay)))%(60*60*24)/(60*60))} hours
                 ${Math.floor((7*24*60*60-(f/1e3-Number(i.tomato_delay)))%(60*60)/60)} minutes
-              `})]})})}const MW="https://daaavus.github.io/my-twa/tonconnect-manifest.json";Cm.createRoot(document.getElementById("root")).render(vn.jsx(DD,{manifestUrl:MW,children:vn.jsx(_W,{})}));
+              `})]})})}const MW="https://daaavus.github.io/tonconnect-manifest.json";Cm.createRoot(document.getElementById("root")).render(vn.jsx(DD,{manifestUrl:MW,children:vn.jsx(_W,{})}));
